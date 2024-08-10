@@ -1,3 +1,3 @@
 
 
-<h1 align="center">Hi 👋, I'm Nitish kumar</h1>
+<h1 align="center">Hi there 👋, I'm Nitish kumar</h1>
